@@ -7,3 +7,8 @@ DataSet  taken from kaggle "PlantVillage"
 Backend integration handled via FastApi
 
 Frontend developed using React.js 
+
+Technologies used:
+-React & CSS for frontend
+-FastApi for backend integration with model
+-Jupyter Notebook
